@@ -26,4 +26,8 @@ People who do not have children tend to use coupons more often.
 
 By Marrital Status: ![BymaritalStatus](https://github.com/user-attachments/assets/3346292b-c3e2-4be0-a582-3678d4a8065d)
 
-This grapth shows that Single and Married use more coupons, but this is more of a standard, seems like we need to normalize this data. Will be back on this.....
+This grapth shows that Single and Married couples use more coupons.
+
+By Occupation: ![Byoccupation](https://github.com/user-attachments/assets/3babdd13-eba8-48e8-a207-444c99ee55c8)
+
+This is very intresting, is it that the Unemployed and students have more time to take the servey? in any case they are the onens using the coupons the most. 
