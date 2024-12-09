@@ -7,5 +7,6 @@ Customers are of different types, single, married, with kids, different age grou
 
 First let see which type uses the coupon more and what kind of coupon. 
 
-By Age: See image in image folder ByAge.png 
+By Age:  
+
  This show that 
