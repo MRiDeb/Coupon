@@ -9,8 +9,8 @@ First let see which type uses the coupon more and what kind of coupon.
 
 By Age:  ![ByAge](https://github.com/user-attachments/assets/a0e32935-5dd2-4606-ad03-a0f9f1f0a263)
 
-This graph show that younger population will be more than likely to use the coupons for coffee, carry out, and cheap resturats. Coupon use in bars as low and overrall, every age group minimally use the high more expensive resturatn coupon. Coupon use decreases propostinaly with age. suprise is that folks over 50 use the coupons like their 30 year old counter parts. 
+This graph shows that the younger population is more likely to use coupons for coffee, carryout, and inexpensive restaurants. Coupon usage in bars is low, and overall, every age group uses coupons for more expensive restaurants minimally. Coupon usage decreases proportionally with age. Interestingly, individuals over 50 use coupons at a rate similar to their 30-year-old counterparts. 
 
 By Income:  ![image](https://github.com/user-attachments/assets/70d1607b-beeb-4d7c-90e8-a9dcf709d504)
 
-This graph also show that middle income range from $25k to $62K will be more than likely to use the coupons. This matches the age group use on  coffee, carry out, and cheap resturats. Coupon use in bars as low and overrall, every age group minimally use the high more expensive resturatn coupon. Coupon use decreases propostinaly with age. Similar suprise is that folks who earn over $100k use the coupons like mid income level.  
+This graph also shows that individuals with a middle income range of $25K to $62K are more likely to use coupons. This trend aligns with the age group preferences for coffee, carryout, and inexpensive restaurants. Coupon usage in bars is low, and overall, every income group minimally uses coupons for more expensive restaurants. Coupon usage decreases proportionally with income. Interestingly, individuals earning over $100K use coupons at a rate similar to those in the middle-income range. 
