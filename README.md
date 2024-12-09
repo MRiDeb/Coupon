@@ -32,3 +32,10 @@ By Occupation: ![Byoccupation](https://github.com/user-attachments/assets/3babdd
 
 This is very interesting, is it that the Unemployed and students have more time to take the survey? in any case they are the one's using the coupons the most.
 
+Now let see what is the affect of Contextual attributes: ![image](https://github.com/user-attachments/assets/97ad1f60-b24f-4815-947e-49fd4d43492e)
+
+Form the graphs, it is clear that person will most likely use a coupon when it is Sunny, warmer weather, going to a non-urgent place along or with friends. Evening and coupons with one-day validity will be more than like be used.
+
+Now let see what is the affect of number of time a service is used by the costomer: ![image](https://github.com/user-attachments/assets/59cef9ac-71ed-4c08-8be2-25ae4425132f)
+
+Overall we see a tendancy that a person who goes to a place more offen uses less coupons. Still most coupons are used at coffee house. People who go 1 to 3 times to any place used most coupons expect the high end resturant, where only first timer uses the most coupons.
