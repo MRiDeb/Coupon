@@ -7,6 +7,10 @@ Customers are of different types, single, married, with kids, different age grou
 
 First let see which type uses the coupon more and what kind of coupon. 
 
-By Age:  ![image](https://github.com/user-attachments/assets/e6527ad6-d1b9-498b-8ee9-8be7a20952df)
+By Age:  ![ByAge](https://github.com/user-attachments/assets/a0e32935-5dd2-4606-ad03-a0f9f1f0a263)
 
-This show that younger population will be more than likel to use the coupons. 
+This graph show that younger population will be more than likely to use the coupons for coffee, carry out, and cheap resturats. Coupon use in bars as low and overrall, every age group minimally use the high more expensive resturatn coupon. Coupon use decreases propostinaly with age. suprise is that folks over 50 use the coupons like their 30 year old counter parts. 
+
+By Income:  ![image](https://github.com/user-attachments/assets/70d1607b-beeb-4d7c-90e8-a9dcf709d504)
+
+This graph also show that middle income range from $25k to $62K will be more than likely to use the coupons. This matches the age group use on  coffee, carry out, and cheap resturats. Coupon use in bars as low and overrall, every age group minimally use the high more expensive resturatn coupon. Coupon use decreases propostinaly with age. Similar suprise is that folks who earn over $100k use the coupons like mid income level.  
