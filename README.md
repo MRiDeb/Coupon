@@ -1,11 +1,10 @@
 # Coupon example assignment
 
-Will a customer accept the coupon?
+Will a Customer Accept the Coupon?
 
+Customers come in various types—single, married, with kids, and belonging to different age groups, income levels, and professions. Additionally, their habits, such as how often they eat out or visit bars, influence their coupon usage.
 
-Customers are of different types, single, married, with kids, different age groups, income level and profession. Then are their habits, how many time they eat out and go to bar etc. 
-
-First let see which type uses the coupon more and what kind of coupon. 
+Let’s first examine which types of customers use coupons more frequently and the kinds of coupons they prefer.
 
 By Age:  ![ByAge](https://github.com/user-attachments/assets/a0e32935-5dd2-4606-ad03-a0f9f1f0a263)
 
