@@ -1,6 +1,4 @@
-# Coupon example assignment
-
-Will a Customer Accept the Coupon?
+# Will a Customer Accept the Coupon?
 
 Customers come in various types—single, married, with kids, and belonging to different age groups, income levels, and professions. Additionally, their habits, such as how often they eat out or visit bars, influence their coupon usage.
 
