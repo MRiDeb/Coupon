@@ -18,16 +18,17 @@ This is an interesting graph. It shows that people with some college education (
 
 By Gender: ![ByGender](https://github.com/user-attachments/assets/6920dafa-3f95-42a8-b9d1-b06edb7dd490)
 
-No major diffrence
+No major difference
 
 Has Children: ![Byhas_children](https://github.com/user-attachments/assets/e472a3f0-941f-4658-823a-c2e3935e216a)
 
 People who do not have children tend to use coupons more often.
 
-By Marrital Status: ![BymaritalStatus](https://github.com/user-attachments/assets/3346292b-c3e2-4be0-a582-3678d4a8065d)
+By Marital Status: ![BymaritalStatus](https://github.com/user-attachments/assets/3346292b-c3e2-4be0-a582-3678d4a8065d)
 
-This grapth shows that Single and Married couples use more coupons.
+This graph shows that Single and Married couples use more coupons.
 
 By Occupation: ![Byoccupation](https://github.com/user-attachments/assets/3babdd13-eba8-48e8-a207-444c99ee55c8)
 
-This is very intresting, is it that the Unemployed and students have more time to take the servey? in any case they are the onens using the coupons the most. 
+This is very interesting, is it that the Unemployed and students have more time to take the survey? in any case they are the one's using the coupons the most.
+
